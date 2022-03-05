@@ -1,0 +1,8 @@
+{
+	"host": "localhost",
+	"username": "cup",
+	"password": "cup",
+	"port": 3306,
+	"database": "gestione_asl"
+}
+
